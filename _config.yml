@@ -1,7 +1,7 @@
 title: "Anmol Dura — Journey, Cloud & Life"
 description: "My honest journey: cloud computing, projects, work, gym, and life in Toronto."
-url: "" # set later if using a custom domain
-baseurl: "" # repo name if using project pages (e.g., /myblog)
+url: "https://anmoldura.github.io" # the base hostname & protocol for your site
+baseurl: "/cloud-blog-Journey-anmol"
 
 author:
   name: "Anmol Dura"
@@ -17,6 +17,7 @@ header_pages:
   - projects.md
   - daily.md
   - blog.md
+  - tags.md
 
 # Plugins supported by GitHub Pages
 plugins:
