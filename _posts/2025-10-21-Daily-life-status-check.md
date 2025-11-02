@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily-life-status-check : full-time-baker-at-day/ part-time-coder-at-night 👾"
+title: "Daily-life-status-check : full-time baker at day/ part time developer at night:👾"
 date: 2025-10-19
 tags: [aws, cloud, learning]
 ---
