@@ -15,11 +15,11 @@ Imagine, you have a bunch of computer in a network, and what is a network?: a gr
 This can create chaos and problem in the network, therefore we need to allocate ips for network portion so that we can have manageable network chunks and does not crash the network.
 
 <style>
-  body { font-family: Arial, sans-serif; background: #0b0c10; color: #e8e8e8; text-align:center; padding:2rem; }
+  div { font-family: Arial, sans-serif; background: #0b0c10; color: #e8e8e8; text-align:center; padding:2rem; }
   svg { background: #111317; border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.4); margin: 2rem auto; display:block; max-width: 800px; }
   h2 { color: #7c5cff; }
 </style>
-
+<div class="black-out">
 <h2>🧩 Simple Personal Company Network</h2>
 
   <svg width="700" height="400">
@@ -101,3 +101,4 @@ This can create chaos and problem in the network, therefore we need to allocate 
   <line x1="620" y1="300" x2="710" y2="350" stroke="#00c896" stroke-width="2"/>
   <line x1="450" y1="230" x2="450" y2="460" stroke="#ffb84d" stroke-width="2"/>
 </svg>
+</div>
