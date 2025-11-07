@@ -1,6 +1,6 @@
 title: "Anmol Dura — Journey, Cloud & Life"
 description: "My honest journey: cloud computing, projects, work, gym, and life in Toronto."
-url: "https://github.com/Anmol-Dura/anmol-dura-cloud-journey-blog.git" # the base hostname & protocol for your site
+url: "https://anmol-dura.github.io" # the base hostname & protocol for your site
 baseurl: "/anmol-dura-cloud-journey-blog"
 
 author:
